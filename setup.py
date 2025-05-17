@@ -26,7 +26,7 @@ setup(
     version='0.0.0.1',
     author = 'vedant choubey',
     author_email="vedantchoubey@gmail.com",
-    package = find_packages(),
+    packages = find_packages(),
     install_requires = get_requirment()
 )
 
